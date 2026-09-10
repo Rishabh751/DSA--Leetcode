@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rishabh751/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Rishabh751/DSA/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/Rishabh751/DSA/tree/master/0877-stone-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Rishabh751/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rishabh751/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rishabh751/DSA/tree/master/0013-roman-to-integer) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rishabh751/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Rishabh751/DSA/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Rishabh751/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
