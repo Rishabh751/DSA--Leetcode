@@ -77,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rishabh751/DSA/tree/master/0013-roman-to-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rishabh751/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Rishabh751/DSA/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Rishabh751/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
